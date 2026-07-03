@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.log
+runs/
+logs/
+checkpoints/
+outputs/
+data/
+*.nc
+*.npy
